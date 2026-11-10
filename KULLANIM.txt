@@ -1,0 +1,16 @@
+DINAMIK CHIPTUNING PRO - MODERN ARAYUZ
+
+Kurulum:
+1. Windows 10/11 bilgisayarınızda Python 3.10+ kurulu olmalı.
+2. KURULUM.bat dosyasına çift tıklayın. PySide6 yüklenir ve uygulama açılır.
+3. Tek dosyalık Windows EXE oluşturmak için EXE_OLUSTUR.bat çalıştırın.
+4. Oluşan dist\Dinamik Chiptuning.exe dosyasını Python bulunmayan Windows bilgisayarlarda da açabilirsiniz.
+
+Veri klasörü:
+Belgeler\DinamikChiptuning
+Veritabanı ve ORI/MOD dosyaları bu klasörde saklanır.
+Yedekleme ekranından klasörün tamamının kopyasını alabilirsiniz.
+
+Bu paket ilk modern arayüz prototipidir. Yeni kayıt, işlem katalogu, arama,
+ORI/MOD dosyası kopyalama, dashboard özetleri ve manuel yedekleme işlevleri bulunur.
+Not: İlk sürümde düzenleme, gelişmiş rapor grafikleri ve tam kurulum sihirbazı henüz tamamlanmamıştır.
